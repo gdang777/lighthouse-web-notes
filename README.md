@@ -7,6 +7,5 @@ This repository contains all of the notes taken by [Gaurav](https://github.com/g
 ### Table of Contents
 
  * Week 1
-
    * Day 1
 
