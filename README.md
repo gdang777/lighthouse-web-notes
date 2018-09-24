@@ -3,5 +3,5 @@
 ## Summary
 
 This repository contains all of the notes taken by [Gaurav]
-(https://github.com/gdang777) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+{https://github.com/gdang777} for the [Lighthouse Labs]{https://www.lighthouselabs.ca/} Web Development Bootcamp.
 
