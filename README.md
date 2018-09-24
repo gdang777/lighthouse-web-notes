@@ -8,5 +8,5 @@ This repository contains all of the notes taken by [Gaurav]{https://github.com/g
 
  * Week 1
 
-   * Day1
+   * Day 1
 
